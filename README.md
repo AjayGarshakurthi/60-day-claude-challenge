@@ -19,4 +19,4 @@ I am passionate about Artificial Intelligence, Python Development, FastAPI, IoT,
 
 For the next 60 days, I will complete AI learning activities, document my progress, and upload my work to this repository.
 
-Day 1 Started: June 2026 🚀
+Day 1 Started: June 1,2026 🚀
